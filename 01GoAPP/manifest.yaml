@@ -1,0 +1,6 @@
+---
+applications:
+  - name: sachinfirstapp
+    memory: 256M
+    buildpacks:
+      - go_buildpack
